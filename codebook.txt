@@ -1,0 +1,2 @@
+1st column - Subject + Activity name
+Next 179 columns - mean and std deviation of various physical characteristics of sensor signals
