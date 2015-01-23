@@ -1,2 +1,6 @@
 1st column - Subject + Activity name
-Next 179 columns - mean and std deviation of various physical characteristics of sensor signals
+             Example: "3 Sitting"
+Next 179 columns - mean and std deviation of various metrics of sensor signals. Format: <Function> <metric> [axe]
+              Example: 
+                      mean of tGravityAcc X
+                      -0.8968300184 
